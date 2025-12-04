@@ -74,7 +74,15 @@ Access will be granted within 24 hours after the email is received.
 ❓ Support
 
 If you have any issues or questions, feel free to contact us at the same email.
-   
+
+🧪 Try a Trial
+
+If you want to test PrintOneService before purchasing, a trial version is available:
+
+Download Trial
+
+The trial allows limited requests so you can experience the functionality before buying.
+limited to 20 requests. You can check how many are remaining using the /requests-left endpoint.
 
 ```bash
 [git clone https://github.com/YOUR-OWNER/PrintOneService.git](https://github.com/printone-dev/PrintOneService)
