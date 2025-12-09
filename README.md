@@ -45,7 +45,7 @@ Includes lifetime access + updates.
 
 ### 👉 Click below to purchase:
 
-**(https://www.paypal.com/invoice/p/#26R2VEWYH595CE6H)**
+**([https://www.paypal.com/invoice/p/#26R2VEWYH595CE6H](https://www.paypal.com/invoice/p/#26R2VEWYH595CE6H))**
 
 📩 After Payment (IMPORTANT)
 
