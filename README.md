@@ -45,15 +45,7 @@ Includes lifetime access + updates.
 
 ### 👉 Click below to purchase:
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1ScVZcGzdgpx6y2ItzkS0i1s"
-  publishable-key="pk_live_51SaJxNGzdgpx6y2I6g5qOUZy8UBQsQePUixRfEP2BEPtIBcXKVVAaHLQp0blZdic4s015cmYnMNgD8Z8DwAUgkcT00WgBPUpZq"
->
-</stripe-buy-button>
+**(https://buy.stripe.com/eVqeVdahaa4t6Ht8O07ss00)**
 
 📩 After Payment (IMPORTANT)
 
