@@ -35,7 +35,7 @@ When the payment is completed:
 ## 💵 Pricing
 
 **One-time payment:**  
-### **$600.00 USD**
+### **$700.00 USD**
 
 Includes lifetime access + updates.
 
